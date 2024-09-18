@@ -22,3 +22,8 @@ Pre-requisite:
 •	Knowledge of encryption and decprytion
 •	File I/O
 •	Pointers and Structures
+
+HOW TO USE:
+1} after compiling all file as gcc *.c
+2} pass command line arguments like:  ./a.out -e example.bmp   secret_text.bmp  */ for encoding/*
+                                                           ./a.out -d encoded.bmp    */ for decoding/*
